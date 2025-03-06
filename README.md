@@ -37,13 +37,11 @@ Este manual técnico proporciona las instrucciones detalladas para instalar y co
 ## 3. INSTALACIÓN FÍSICA
 
 ### 3.1 Procedimiento de Instalación
-1. Desembalar cuidadosamente el dispositivo SonicWall TZ270
-2. Comprobar el contenido del paquete contra el listado de componentes
-3. Montar el dispositivo en el rack o colocarlo en una superficie plana y estable
-4. Conectar el cable de alimentación al dispositivo y a una toma eléctrica protegida
-5. Conectar el puerto X1 (WAN) del SonicWall al dispositivo de acceso a internet
-6. Conectar el puerto X0 (LAN) del SonicWall al conmutador de red interna
-7. Conectar un ordenador de administración directamente al puerto X0 o al conmutador de red interna
+1. Montar el dispositivo en el rack o colocarlo en una superficie plana y estable
+2. Conectar el cable de alimentación al dispositivo y a una toma eléctrica protegida
+3. Conectar el puerto X1 (WAN) del SonicWall al dispositivo de acceso a internet
+4. Conectar el puerto X0 (LAN) del SonicWall al conmutador de red interna
+5. Conectar un ordenador de administración directamente al puerto X0 o al conmutador de red interna
 
 ## 4. CONFIGURACIÓN INICIAL
 
