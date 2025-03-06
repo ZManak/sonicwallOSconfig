@@ -1,5 +1,6 @@
 # MANUAL TÉCNICO DE INSTALACIÓN
 # SonicWall TZ270: Configuración de VPN y Cortafuegos
+# English README in progress
 
 ## DOCUMENTO TÉCNICO DE REFERENCIA
 **Versión**: 1.0  
