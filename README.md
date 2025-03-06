@@ -306,16 +306,16 @@ Este manual técnico proporciona las instrucciones detalladas para instalar y co
 4. Comprobar la validez de la clave precompartida
 5. Revisar los registros VPN para mensajes de error específicos
 
-## 12. NOTAS DE LA VERSIÓN
+## 11. NOTAS DE LA VERSIÓN
 
-### 12.1 Historial de Cambios
+### 11.1 Historial de Cambios
 - Versión 1.0 (06/03/2025)
   - Documento inicial
   - Incluir configuración básica del cortafuegos
   - Añadir sección de VPN Site-to-Site
   - Incorporar configuración SSL-VPN
 
-### 12.2 Control del Documento
+### 11.2 Control del Documento
 - Autor: Javier Fuertes
 - Revisor: xxxxx
 - Aprobado por: XXXXX
